@@ -2,7 +2,7 @@
 Create an updated repository
 <br>
 ===========
-![Image](livesite.png)
+![Image](3.0.png)
 
 <br>
 
@@ -61,7 +61,7 @@ Create an updated repository
 
 ## Deployed Link
 
-* [See Live Site](https://jas-f.github.io/updated-portfolio/)
+* [See Live Site](https://jas-f.github.io/portfolio-3.0/)
 
 ## License
 
@@ -84,7 +84,7 @@ JQuery
 
 **Jasmine Franklin C: 301-332-2313 E: jasminer.franklin@gmail** 
 
-- [Link to Portfolio Site](https://jas-f.github.io/updated-portfolio/)
+- [Link to Portfolio Site](https://jas-f.github.io/portfolio-3.0/git)
 - [Link to Github](https://github.com/)
 - [Link to LinkedIn](https://www.linkedin.com/in/jasmine-franklin-8b08ba121)
 
