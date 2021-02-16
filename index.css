@@ -11,4 +11,14 @@
     padding: 10px 0;
   }
   
-  
+  .work-feature-block {
+      text-align: center;
+  }
+
+  .work-feature-block-image {
+      width: 40%;
+  }
+
+  body {
+      background-color:beige
+  }
