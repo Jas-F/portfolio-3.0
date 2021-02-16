@@ -84,7 +84,7 @@ JQuery
 
 **Jasmine Franklin C: 301-332-2313 E: jasminer.franklin@gmail** 
 
-- [Link to Portfolio Site](https://jas-f.github.io/portfolio-3.0/git)
+- [Link to Portfolio Site](https://jas-f.github.io/portfolio-3.0/)
 - [Link to Github](https://github.com/)
 - [Link to LinkedIn](https://www.linkedin.com/in/jasmine-franklin-8b08ba121)
 
