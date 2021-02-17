@@ -61,7 +61,7 @@ Create an updated repository
 
 ## Deployed Link
 
-* [See Live Site](https://jas-f.github.io/portfolio-3.0/)
+* [See Live Site](https://jas-f.github.igit o/portfolio-3.0/)
 
 ## License
 
